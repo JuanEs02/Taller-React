@@ -1,11 +1,10 @@
-//import logo from './logo.svg';
 import './App.css';
-import Variable from './components/Variable';
+import PeticionAPI from './components/PeticionAPI';
 
 function App() {
   return (
     <div className="App">
-      <Variable/>
+      <PeticionAPI/>
     </div>
   );
 }
